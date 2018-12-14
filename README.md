@@ -13,4 +13,15 @@ style guidelines we use for Google code. If you are modifying a project that
 originated at Google, you may be pointed to this page to see the style guides
 that apply to that project.
 
-* [google/javastyleguide](https://google.github.io/styleguide/javaguide.html)
+### Code Convention
+* [Java](https://google.github.io/styleguide/javaguide.html)
+* [Shellscript](https://google.github.io/styleguide/shell.xml)
+* [Vim Script](https://google.github.io/styleguide/vimscriptguide.xml)
+* [Javascript](https://google.github.io/styleguide/jsguide.html)
+
+### Java Code Style config file
+* [Eclipse](https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml)
+* [Intellij](https://github.com/google/styleguide/blob/gh-pages/intellij-java-google-style.xml)
+
+### Git Model and Convention
+* [Git](https://github.com/nguyenngoc101/styleguide/blob/master/gitconvention/gitmodel.md)

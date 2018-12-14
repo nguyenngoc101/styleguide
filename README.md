@@ -12,3 +12,5 @@ consistent style.
 style guidelines we use for Google code. If you are modifying a project that
 originated at Google, you may be pointed to this page to see the style guides
 that apply to that project.
+
+* [google/javastyleguide](https://google.github.io/styleguide/javaguide.html)

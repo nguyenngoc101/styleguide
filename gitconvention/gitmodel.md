@@ -95,7 +95,7 @@ useful.
 Branches created should be named using the following format:
 
 ```
-{story type}-{2-3 word summary}-{pivotal tracker id}
+{story type}/{pivotal tracker id}-{2-3 word summary}
 ```
 
 `story-type` - Indicates the context of the branch and should be one of:
@@ -110,7 +110,7 @@ Branches created should be named using the following format:
 **Example**
 
 ```
-feature-resources-rest-endpoints-111504508
+feature/111504508-resources-rest-endpoints
 ```
 
 ### PR Naming
